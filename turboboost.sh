@@ -1,4 +1,5 @@
 #!/bin/bash
+#https://github.com/Tudakov/turboboost
 
 # File with the parameter
 FILE="/sys/devices/system/cpu/intel_pstate/no_turbo"
