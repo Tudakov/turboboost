@@ -1,5 +1,5 @@
 # turboboost
-Simple .sh script to toggle Intel TurboBoost ON/OFF on Manjaro Linux.
+Simple .sh script to toggle Intel TurboBoost ENABLE/DISABLE on Manjaro Linux.
 
 Step 1: Download turboboost.sh script
 
@@ -16,4 +16,4 @@ Step 4: Run the script:
 ./turboboost.sh
 ```
 
-Important: After rebooting, TurboBoost will be ON by default.
+Important: After rebooting, TurboBoost will be ENABLE by default.
